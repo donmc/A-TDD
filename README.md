@@ -1,2 +1,2 @@
-# ATDD-20160202
-A-TDD Training - Feb 2016
+# ATDD-Template
+A-TDD Training from Improving
